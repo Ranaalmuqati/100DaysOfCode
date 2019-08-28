@@ -13,3 +13,4 @@ print(a.replace("H", "J"))
 # The split() method splits the string into substrings
 print(a.split(","))
 
+
