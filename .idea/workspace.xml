@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="603dce27-2f90-4c6f-92c9-e152886d42be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day8.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day9.py">
+        <entry file="file://$PROJECT_DIR$/Day10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+            <state relative-caret-position="345">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -46,14 +45,15 @@
         <option value="$PROJECT_DIR$/Day7.py" />
         <option value="$PROJECT_DIR$/Day8.py" />
         <option value="$PROJECT_DIR$/Day9.py" />
+        <option value="$PROJECT_DIR$/Day10.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1025" />
-    <option name="y" value="151" />
+    <option name="x" value="1056" />
+    <option name="y" value="126" />
     <option name="width" value="825" />
-    <option name="height" value="829" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -61,6 +61,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,7 +73,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -90,8 +90,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day9">
-    <configuration name="Day5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Day10">
+    <configuration name="Day10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DayOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day10" />
         <item itemvalue="Python.Day9" />
         <item itemvalue="Python.Day8" />
         <item itemvalue="Python.Day7" />
         <item itemvalue="Python.Day6" />
-        <item itemvalue="Python.Day5" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +227,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.30727023" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.14814815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978052" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,6 +290,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
