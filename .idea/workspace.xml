@@ -13,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day14.py">
+        <entry file="file://$PROJECT_DIR$/Day15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="295">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -50,12 +50,13 @@
         <option value="$PROJECT_DIR$/Day12.py" />
         <option value="$PROJECT_DIR$/Day13.py" />
         <option value="$PROJECT_DIR$/Day14.py" />
+        <option value="$PROJECT_DIR$/Day15.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1091" />
-    <option name="y" value="137" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1090" />
+    <option name="y" value="135" />
     <option name="width" value="795" />
     <option name="height" value="820" />
   </component>
@@ -94,28 +95,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day14">
-    <configuration name="Day10" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100DayOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Day15">
     <configuration name="Day11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DayOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,13 +180,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Day15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100DayOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day15" />
         <item itemvalue="Python.Day14" />
         <item itemvalue="Python.Day13" />
         <item itemvalue="Python.Day12" />
         <item itemvalue="Python.Day11" />
-        <item itemvalue="Python.Day10" />
       </list>
     </recent_temporary>
   </component>
@@ -224,14 +225,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15234375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110677086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.34019205" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.4663923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978052" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -327,8 +329,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day14.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
