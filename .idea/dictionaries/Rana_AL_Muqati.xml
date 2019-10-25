@@ -8,6 +8,7 @@
       <w>fname</w>
       <w>graduationyear</w>
       <w>hend</w>
+      <w>itemno</w>
       <w>lastname</w>
       <w>lname</w>
       <w>miki</w>
@@ -19,6 +20,7 @@
       <w>myinnerfunc</w>
       <w>myit</w>
       <w>myiter</w>
+      <w>myorder</w>
       <w>mystr</w>
       <w>mytripler</w>
       <w>mytuple</w>
