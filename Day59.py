@@ -11,4 +11,3 @@ print(y)
 print(z)
 print(n.span())
 print(n.group())  # Search for an upper case "S" character in the beginning of a word, and print the word
-cd desktop 
