@@ -5,6 +5,7 @@
       <w>atheer</w>
       <w>buleberry</w>
       <w>carname</w>
+      <w>demofile</w>
       <w>firstname</w>
       <w>fname</w>
       <w>graduationyear</w>
@@ -17,6 +18,7 @@
       <w>myclass</w>
       <w>mydoubler</w>
       <w>myfamily</w>
+      <w>myfile</w>
       <w>myfunc</w>
       <w>myinnerfunc</w>
       <w>myit</w>
@@ -28,6 +30,8 @@
       <w>newcar</w>
       <w>nouf</w>
       <w>printname</w>
+      <w>readline</w>
+      <w>woops</w>
     </words>
   </dictionary>
 </component>
